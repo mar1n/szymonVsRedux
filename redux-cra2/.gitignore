@@ -2,8 +2,6 @@
 
 # dependencies
 /node_modules
-/practiceReduxApp/node_modules
-/redux-cra2/node_modules
 /.pnp
 .pnp.js
 
