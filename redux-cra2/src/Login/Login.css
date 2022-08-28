@@ -1,0 +1,12 @@
+.Login {
+    display: none;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    left: 25%;
+    top: 25%;
+    background-color: chartreuse;
+}
+.Login.is-visible {
+    display: block;
+}
